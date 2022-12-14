@@ -1,0 +1,23 @@
+{
+  "name": "testing-with-jest",
+  "version": "1.0.0",
+  "description": "This is an educational project you iwrioe a few practical tests for JavaScript functions using the Jest library",
+  "main": "script.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kashif-Saleem-Ghuman/Testing-with-Jest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kashif-Saleem-Ghuman/Testing-with-Jest/issues"
+  },
+  "homepage": "https://github.com/Kashif-Saleem-Ghuman/Testing-with-Jest#readme",
+  "devDependencies": {
+    "jest": "^29.3.1"
+  }
+}
